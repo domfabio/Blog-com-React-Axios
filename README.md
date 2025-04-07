@@ -41,7 +41,8 @@ Aplicação desenvolvida em **React** com **Axios**, durante o curso **Formaçã
 
 <div align="center">
   <img src="./public/screen-movie.gif" width="900px"> 
-    <br/>
+  
+  <br>
   <a href="https://seu-deploy.vercel.app" target="_blank">→ Ver Projeto Online 🔗</a>
 </div>
 
