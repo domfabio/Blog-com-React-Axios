@@ -22,9 +22,7 @@ const NavBar = () => {
           </Link>
         </li>
         <li>
-          <Link to={'/admin'}>
-            Gerenciar
-          </Link>
+          <Link to={'/admin'}>Gerenciar</Link>
         </li>
       </ul>
     </nav>
