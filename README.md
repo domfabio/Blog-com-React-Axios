@@ -41,10 +41,10 @@ Aplicação desenvolvida em **React** com **Axios**, durante o curso **Formaçã
 
 <div align="center">
 
+<p>
   <img src="./public/screen-movie.gif" width="900px"> 
-
-  <br>
-
+</p>
+  
   [→ Ver Projeto On-line 🔗](https://blog-react-axios-ivory.vercel.app/)
 
 </div>
