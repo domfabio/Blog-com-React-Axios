@@ -40,10 +40,13 @@ Aplicação desenvolvida em **React** com **Axios**, durante o curso **Formaçã
 ### 🚀 Screen e Deploy
 
 <div align="center">
+
   <img src="./public/screen-movie.gif" width="900px"> 
-  
+
   <br>
-  <a href="https://seu-deploy.vercel.app" target="_blank">→ Ver Projeto Online 🔗</a>
+
+  [→ Ver Projeto On-line 🔗](https://blog-react-axios-ivory.vercel.app/)
+
 </div>
 
 ---
